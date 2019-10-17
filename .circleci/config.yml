@@ -1,6 +1,6 @@
  version: 2
  workflows:
- jobs:
+   jobs:
    build:
      docker:
        - image: circleci/ruby:2.4.1
